@@ -10,6 +10,18 @@
     <atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Graph Convolutional Neural Networks for Recommender Systems</title>
+      <link>https://riannevdberg.github.io/project/recommender/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/project/recommender/</guid>
+      <description>&lt;p&gt;In this project the application of graph convolutional neural networks to recommender systems is discussed.
+T. Kipf and M. Welling introduced graph convolutional neural networks in &lt;a href=&#34;https://arxiv.org/abs/1609.02907&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; and &lt;a href=&#34;https://arxiv.org/pdf/1611.07308v1.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; and applied this method to semi-supervised classification tasks and link prediction on general graphs.
+Here, we apply these methods to recommender systems, for which the interaction data can be represented by bipartite graphs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Information retrieval for financial regulations</title>
       <link>https://riannevdberg.github.io/project/s2ds/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
