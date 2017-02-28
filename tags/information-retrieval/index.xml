@@ -15,7 +15,7 @@
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://riannevdberg.github.io/project/s2ds/</guid>
-      <description>&lt;p&gt;During the 5 week &lt;a href=&#34;http://www.s2ds.org&#34; target=&#34;_blank&#34;&gt;Science to Data Science&lt;/a&gt; workshop in London organized by Pivigo I worked as a Data science fellow in a team of 4 for the startup &lt;a href=&#34;http://waymark.tech&#34; target=&#34;_blank&#34;&gt;Waymarktech&lt;/a&gt;. Their core product revolves around automating the search for relevant financial regulations for their clients, and establishing the appropriate course of action that the client needs to follow to become compliant. We delivered a proof of principle of the ability to extract information from regulations using techniques from Natural Language Processing, such as tf-idf, PCA, word2vec and doc2vec.&lt;/p&gt;
+      <description>&lt;p&gt;During the 5 week &lt;a href=&#34;http://www.s2ds.org&#34; target=&#34;_blank&#34;&gt;Science to Data Science&lt;/a&gt; workshop in London organized by Pivigo I worked as a Data science fellow in a team of 4 for the startup &lt;a href=&#34;http://waymark.tech&#34; target=&#34;_blank&#34;&gt;Waymarktech&lt;/a&gt;. Their core product revolves around automating the search for relevant financial regulations for their clients, and establishing the appropriate course of action that the client needs to follow to become compliant. We delivered a proof of principle of the ability to extract information from regulations using techniques from Natural Language Processing, such as tf-idf, PCA and word2vec.&lt;/p&gt;
 </description>
     </item>
     
