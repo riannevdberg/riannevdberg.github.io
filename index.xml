@@ -33,6 +33,26 @@ Here, we apply these methods to recommender systems, for which the interaction d
     </item>
     
     <item>
+      <title>Modeling Relational Data with Graph Convolutional Networks</title>
+      <link>https://riannevdberg.github.io/publication/rel_gcn/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/publication/rel_gcn/</guid>
+      <description>&lt;!---
+[[url_custom]]
+name = &#34;Custom Link&#34;
+url = &#34;http://www.example.org&#34;
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = &#34;headers/bubbles-wide.jpg&#34;
+caption = &#34;My caption 😄&#34;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Deep Graph Convolutional Recommenders</title>
       <link>https://riannevdberg.github.io/talk/ads_talk/</link>
       <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
@@ -98,28 +118,6 @@ caption = &#34;My caption 😄&#34;
       
       <guid>https://riannevdberg.github.io/publication/quantumdot/</guid>
       <description>&lt;!---
-[[url_custom]]
-name = &#34;Custom Link&#34;
-url = &#34;http://www.example.org&#34;
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = &#34;headers/bubbles-wide.jpg&#34;
-caption = &#34;My caption 😄&#34;
-
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Probing pairing correlations in Sn isotopes using Richardson-Gaudin integrability</title>
-      <link>https://riannevdberg.github.io/publication/pairingSN/</link>
-      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://riannevdberg.github.io/publication/pairingSN/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-
-&lt;!---
 [[url_custom]]
 name = &#34;Custom Link&#34;
 url = &#34;http://www.example.org&#34;

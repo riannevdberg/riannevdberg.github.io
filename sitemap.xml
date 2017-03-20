@@ -20,6 +20,14 @@
     
     
     <url>
+      <loc>https://riannevdberg.github.io/publication/rel_gcn/</loc>
+      <lastmod>2017-03-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://riannevdberg.github.io/talk/ads_talk/</loc>
       <lastmod>2017-01-13T00:00:00+00:00</lastmod>
     </url>
@@ -112,6 +120,15 @@
     <url>
       <loc>https://riannevdberg.github.io/publication_types/7/</loc>
       <lastmod>2016-10-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://riannevdberg.github.io/publication_types/8/</loc>
+      <lastmod>2017-03-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
