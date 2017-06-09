@@ -11,6 +11,26 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Graph Convolutional Matrix Completion</title>
+      <link>https://riannevdberg.github.io/publication/gcmc/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/publication/gcmc/</guid>
+      <description>&lt;!---
+[[url_custom]]
+name = &#34;Custom Link&#34;
+url = &#34;http://www.example.org&#34;
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = &#34;headers/bubbles-wide.jpg&#34;
+caption = &#34;My caption 😄&#34;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Graph Convolutional Neural Networks for Recommender Systems</title>
       <link>https://riannevdberg.github.io/project/recommender/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
@@ -109,26 +129,6 @@ caption = &#34;My caption 😄&#34;
       
       <guid>https://riannevdberg.github.io/publication/cobalt-stm/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Competing interactions in semiconductor quantum dots</title>
-      <link>https://riannevdberg.github.io/publication/quantumdot/</link>
-      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://riannevdberg.github.io/publication/quantumdot/</guid>
-      <description>&lt;!---
-[[url_custom]]
-name = &#34;Custom Link&#34;
-url = &#34;http://www.example.org&#34;
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = &#34;headers/bubbles-wide.jpg&#34;
-caption = &#34;My caption 😄&#34;
-
---&gt;
-</description>
     </item>
     
   </channel>
