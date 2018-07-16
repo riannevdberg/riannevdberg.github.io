@@ -6,11 +6,20 @@
     <description>Recent content in 8 on Rianne van den Berg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Rianne van den Berg</copyright>
-    <lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018 Rianne van den Berg</copyright>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://riannevdberg.github.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sylvester Normalizing Flows for Variational Inference</title>
+      <link>https://riannevdberg.github.io/publication/sylvester/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/publication/sylvester/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph Convolutional Matrix Completion</title>

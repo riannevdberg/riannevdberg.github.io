@@ -5,7 +5,34 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://riannevdberg.github.io/publication/sylvester/</loc>
+      <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/publication/gcmc/</loc>
+      <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/publication/rel_gcn/</loc>
+      <lastmod>2017-03-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +41,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://riannevdberg.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +50,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://riannevdberg.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +59,111 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://riannevdberg.github.io/publication/thesis/</loc>
+      <lastmod>2016-10-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/publication/newtons-cradle/</loc>
+      <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/publication/cobalt-stm/</loc>
+      <lastmod>2016-04-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/publication/quantumdot/</loc>
+      <lastmod>2014-10-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/publication/pairingsn/</loc>
+      <lastmod>2014-10-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/publication_types/1/</loc>
+      <lastmod>2014-10-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/publication_types/2/</loc>
+      <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/publication_types/7/</loc>
+      <lastmod>2016-10-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/publication_types/8/</loc>
+      <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/publication_types/</loc>
+      <lastmod>2014-10-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://riannevdberg.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -42,25 +173,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
+      <loc>https://riannevdberg.github.io/tags/</loc>
       <priority>0</priority>
     </url>
     
