@@ -2,13 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Rianne van den Berg</title>
-    <link>https://riannevdberg.github.io/home/index.xml</link>
+    <link>https://riannevdberg.github.io/home/</link>
     <description>Recent content in Homes on Rianne van den Berg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Rianne van den Berg</copyright>
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://riannevdberg.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://riannevdberg.github.io/home/about/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/about/</guid>
+      <description>About Me I am a postdoctoral researcher in machine learning at the University of Amsterdam under the supervision of Prof. Max Welling. My main research interest is deep generative modeling from a probabilistic point of view. In particular, I work on variational inference, normalizing flows and generative adversarial networks. More recently, I became interested in deep learning for dynamical systems described by differential equations. I am also interested in deep learning for graph-based data.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://riannevdberg.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://riannevdberg.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://riannevdberg.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/teaching/</guid>
+      <description>I am an instructor and coordinator for the following course:
+ Machine Learning 1, Master&amp;rsquo;s program in Artificial Intelligence at the University of Amsterdam.  I was a teaching Assistent for the following courses:
+ MBA Big Data &amp;amp; Business Analytics: Machine Learning, at the Amsterdam Business School. Electrodynamics, Quantum Mechanics, and Statistical Physics at the University of Amsterdam  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://riannevdberg.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://riannevdberg.github.io/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/cv/</guid>
+      <description>Download CV</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://riannevdberg.github.io/home/contact/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
