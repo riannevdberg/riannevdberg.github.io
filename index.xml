@@ -1,14 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rianne van den Berg on Rianne van den Berg</title>
-    <link>https://riannevdberg.github.io/index.xml</link>
-    <description>Recent content in Rianne van den Berg on Rianne van den Berg</description>
+    <title>Rianne van den Berg</title>
+    <link>https://riannevdberg.github.io/</link>
+    <description>Recent content on Rianne van den Berg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Rianne van den Berg</copyright>
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://riannevdberg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://riannevdberg.github.io/home/about/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/about/</guid>
+      <description>About Me I am a postdoctoral researcher in machine learning at the University of Amsterdam under the supervision of Prof. Max Welling. My main research interest is deep generative modeling from a probabilistic point of view. In particular, I work on variational inference, normalizing flows and generative adversarial networks. More recently, I became interested in deep learning for dynamical systems described by differential equations. I am also interested in deep learning for graph-based data.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://riannevdberg.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://riannevdberg.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://riannevdberg.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/teaching/</guid>
+      <description>I am an instructor and coordinator for the following course:
+ Machine Learning 1, Master&amp;rsquo;s program in Artificial Intelligence at the University of Amsterdam.  I was a teaching Assistent for the following courses:
+ MBA Big Data &amp;amp; Business Analytics: Machine Learning, at the Amsterdam Business School. Electrodynamics, Quantum Mechanics, and Statistical Physics at the University of Amsterdam  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://riannevdberg.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://riannevdberg.github.io/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/cv/</guid>
+      <description>Download CV</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://riannevdberg.github.io/home/contact/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph Convolutional Matrix Completion</title>
@@ -16,18 +83,7 @@
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://riannevdberg.github.io/publication/gcmc/</guid>
-      <description>&lt;!---
-[[url_custom]]
-name = &#34;Custom Link&#34;
-url = &#34;http://www.example.org&#34;
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = &#34;headers/bubbles-wide.jpg&#34;
-caption = &#34;My caption 😄&#34;
-
---&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,10 +92,7 @@ caption = &#34;My caption 😄&#34;
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://riannevdberg.github.io/project/recommender/</guid>
-      <description>&lt;p&gt;In this project the application of graph convolutional neural networks to recommender systems is discussed.
-T. Kipf and M. Welling introduced graph convolutional neural networks in &lt;a href=&#34;https://arxiv.org/abs/1609.02907&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; and &lt;a href=&#34;https://arxiv.org/pdf/1611.07308v1.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; and applied this method to semi-supervised classification tasks and link prediction on general graphs.
-Here, we apply these methods to recommender systems, for which the interaction data can be represented by bipartite graphs.&lt;/p&gt;
-</description>
+      <description>In this project the application of graph convolutional neural networks to recommender systems is discussed. T. Kipf and M. Welling introduced graph convolutional neural networks in [1] and [2] and applied this method to semi-supervised classification tasks and link prediction on general graphs. Here, we apply these methods to recommender systems, for which the interaction data can be represented by bipartite graphs.</description>
     </item>
     
     <item>
@@ -48,8 +101,7 @@ Here, we apply these methods to recommender systems, for which the interaction d
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://riannevdberg.github.io/project/s2ds/</guid>
-      <description>&lt;p&gt;During the 5 week &lt;a href=&#34;http://www.s2ds.org&#34; target=&#34;_blank&#34;&gt;Science to Data Science&lt;/a&gt; workshop in London organized by Pivigo I worked as a Data science fellow in a team of 4 for the startup &lt;a href=&#34;http://waymark.tech&#34; target=&#34;_blank&#34;&gt;Waymarktech&lt;/a&gt;. Their core product revolves around automating the search for relevant financial regulations for their clients, and establishing the appropriate course of action that the client needs to follow to become compliant. We delivered a proof of principle of the ability to extract information from regulations using techniques from Natural Language Processing, such as tf-idf, PCA and word2vec.&lt;/p&gt;
-</description>
+      <description>During the 5 week Science to Data Science workshop in London organized by Pivigo I worked as a Data science fellow in a team of 4 for the startup Waymarktech. Their core product revolves around automating the search for relevant financial regulations for their clients, and establishing the appropriate course of action that the client needs to follow to become compliant. We delivered a proof of principle of the ability to extract information from regulations using techniques from Natural Language Processing, such as tf-idf, PCA and word2vec.</description>
     </item>
     
     <item>
@@ -58,28 +110,7 @@ Here, we apply these methods to recommender systems, for which the interaction d
       <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://riannevdberg.github.io/publication/rel_gcn/</guid>
-      <description>&lt;!---
-[[url_custom]]
-name = &#34;Custom Link&#34;
-url = &#34;http://www.example.org&#34;
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = &#34;headers/bubbles-wide.jpg&#34;
-caption = &#34;My caption 😄&#34;
-
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep Graph Convolutional Recommenders</title>
-      <link>https://riannevdberg.github.io/talk/ads_talk/</link>
-      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://riannevdberg.github.io/talk/ads_talk/</guid>
-      <description>&lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;ca5e6f9479914aa9a1905bb083d36af8&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -88,18 +119,7 @@ caption = &#34;My caption 😄&#34;
       <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://riannevdberg.github.io/publication/thesis/</guid>
-      <description>&lt;!---
-[[url_custom]]
-name = &#34;Custom Link&#34;
-url = &#34;http://www.example.org&#34;
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = &#34;headers/bubbles-wide.jpg&#34;
-caption = &#34;My caption 😄&#34;
-
---&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -108,18 +128,7 @@ caption = &#34;My caption 😄&#34;
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://riannevdberg.github.io/publication/newtons-cradle/</guid>
-      <description>&lt;!---
-[[url_custom]]
-name = &#34;Custom Link&#34;
-url = &#34;http://www.example.org&#34;
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = &#34;headers/bubbles-wide.jpg&#34;
-caption = &#34;My caption 😄&#34;
-
---&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -129,6 +138,24 @@ caption = &#34;My caption 😄&#34;
       
       <guid>https://riannevdberg.github.io/publication/cobalt-stm/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Competing interactions in semiconductor quantum dots</title>
+      <link>https://riannevdberg.github.io/publication/quantumdot/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/publication/quantumdot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing pairing correlations in Sn isotopes using Richardson-Gaudin integrability</title>
+      <link>https://riannevdberg.github.io/publication/pairingsn/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://riannevdberg.github.io/publication/pairingsn/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
   </channel>
