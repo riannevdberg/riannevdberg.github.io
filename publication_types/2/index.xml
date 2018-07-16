@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Rianne van den Berg</title>
-    <link>https://riannevdberg.github.io/publication_types/2/</link>
+    <link>https://riannevdberg.github.io/publication_types/2/index.xml</link>
     <description>Recent content in 2 on Rianne van den Berg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Rianne van den Berg</copyright>
-    <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://riannevdberg.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Separation of Time Scales in a Quantum Newton’s Cradle</title>
@@ -18,7 +15,18 @@
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://riannevdberg.github.io/publication/newtons-cradle/</guid>
-      <description></description>
+      <description>&lt;!---
+[[url_custom]]
+name = &#34;Custom Link&#34;
+url = &#34;http://www.example.org&#34;
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = &#34;headers/bubbles-wide.jpg&#34;
+caption = &#34;My caption 😄&#34;
+
+--&gt;
+</description>
     </item>
     
     <item>
@@ -36,7 +44,18 @@
       <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>https://riannevdberg.github.io/publication/quantumdot/</guid>
-      <description></description>
+      <description>&lt;!---
+[[url_custom]]
+name = &#34;Custom Link&#34;
+url = &#34;http://www.example.org&#34;
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = &#34;headers/bubbles-wide.jpg&#34;
+caption = &#34;My caption 😄&#34;
+
+--&gt;
+</description>
     </item>
     
   </channel>

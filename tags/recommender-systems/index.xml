@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recommender Systems on Rianne van den Berg</title>
-    <link>https://riannevdberg.github.io/tags/recommender-systems/</link>
+    <link>https://riannevdberg.github.io/tags/recommender-systems/index.xml</link>
     <description>Recent content in Recommender Systems on Rianne van den Berg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Rianne van den Berg</copyright>
-    <lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://riannevdberg.github.io/tags/recommender-systems/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/recommender-systems/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Graph Convolutional Neural Networks for Recommender Systems</title>
@@ -18,7 +15,10 @@
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://riannevdberg.github.io/project/recommender/</guid>
-      <description>In this project the application of graph convolutional neural networks to recommender systems is discussed. T. Kipf and M. Welling introduced graph convolutional neural networks in [1] and [2] and applied this method to semi-supervised classification tasks and link prediction on general graphs. Here, we apply these methods to recommender systems, for which the interaction data can be represented by bipartite graphs.</description>
+      <description>&lt;p&gt;In this project the application of graph convolutional neural networks to recommender systems is discussed.
+T. Kipf and M. Welling introduced graph convolutional neural networks in &lt;a href=&#34;https://arxiv.org/abs/1609.02907&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; and &lt;a href=&#34;https://arxiv.org/pdf/1611.07308v1.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; and applied this method to semi-supervised classification tasks and link prediction on general graphs.
+Here, we apply these methods to recommender systems, for which the interaction data can be represented by bipartite graphs.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -2,15 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Rianne van den Berg</title>
-    <link>https://riannevdberg.github.io/project/</link>
+    <link>https://riannevdberg.github.io/project/index.xml</link>
     <description>Recent content in Projects on Rianne van den Berg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Rianne van den Berg</copyright>
     <lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://riannevdberg.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Graph Convolutional Neural Networks for Recommender Systems</title>
@@ -18,7 +16,10 @@
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://riannevdberg.github.io/project/recommender/</guid>
-      <description>In this project the application of graph convolutional neural networks to recommender systems is discussed. T. Kipf and M. Welling introduced graph convolutional neural networks in [1] and [2] and applied this method to semi-supervised classification tasks and link prediction on general graphs. Here, we apply these methods to recommender systems, for which the interaction data can be represented by bipartite graphs.</description>
+      <description>&lt;p&gt;In this project the application of graph convolutional neural networks to recommender systems is discussed.
+T. Kipf and M. Welling introduced graph convolutional neural networks in &lt;a href=&#34;https://arxiv.org/abs/1609.02907&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; and &lt;a href=&#34;https://arxiv.org/pdf/1611.07308v1.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt; and applied this method to semi-supervised classification tasks and link prediction on general graphs.
+Here, we apply these methods to recommender systems, for which the interaction data can be represented by bipartite graphs.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +28,8 @@
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://riannevdberg.github.io/project/s2ds/</guid>
-      <description>During the 5 week Science to Data Science workshop in London organized by Pivigo I worked as a Data science fellow in a team of 4 for the startup Waymarktech. Their core product revolves around automating the search for relevant financial regulations for their clients, and establishing the appropriate course of action that the client needs to follow to become compliant. We delivered a proof of principle of the ability to extract information from regulations using techniques from Natural Language Processing, such as tf-idf, PCA and word2vec.</description>
+      <description>&lt;p&gt;During the 5 week &lt;a href=&#34;http://www.s2ds.org&#34; target=&#34;_blank&#34;&gt;Science to Data Science&lt;/a&gt; workshop in London organized by Pivigo I worked as a Data science fellow in a team of 4 for the startup &lt;a href=&#34;http://waymark.tech&#34; target=&#34;_blank&#34;&gt;Waymarktech&lt;/a&gt;. Their core product revolves around automating the search for relevant financial regulations for their clients, and establishing the appropriate course of action that the client needs to follow to become compliant. We delivered a proof of principle of the ability to extract information from regulations using techniques from Natural Language Processing, such as tf-idf, PCA and word2vec.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
